@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: MCM-ICM_2021_Summary.aux
+The style file: plain.bst
+Database file #1: document.bib
+Repeated entry---line 309 of file document.bib
+ : @book{hritonenko1999mathematical
+ :                                 ,   title={Mathematical modeling in economics, ecology and the environment},   author={Hritonenko, Natali and Yatsenko, Yuri and others},   year={1999},   publisher={Springer} }
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 311 of file document.bib
+ : @article{Study 
+ :                on the effect of eucalyptus rotation on soil erosion in the reservoir area of 2015 reservoirs--A case study of the reservoir area of Guangzhou reservoir,   title={Study on the effect of eucalyptus rotation on soil erosion in the reservoir area of reservoirs--Example of the reservoir area of Guangzhou Reservoir},   journal={Journal of South China Normal University: Natural Science Edition},   volume={47},   number={3},   pages={7},   year={2015}, }
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 313 of file document.bib
+ : @book{Zhang 
+ :             Ying 2010 Theory and Practice of Forest Green Accounting,   title={Theory and Practice of Forest Green Accounting},   author={Zhang Ying},   publisher={Theory and Practice of Forest Green Accounting},   year={2010}, }
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in 2015
+Warning--empty author in 2015
+Warning--empty journal in https://doi.org/10.3334/ornldaac/951
+Warning--empty journal in https://doi.org/10.3334/ornldaac/989
+Warning--empty journal in https://doi.org/10.3334/ornldaac/990
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            552 strings with 6527 characters,
+and the built_in function-call counts, 3665 in all, are:
+= -- 312
+> -- 282
+< -- 0
++ -- 112
+- -- 102
+* -- 313
+:= -- 662
+add.period$ -- 29
+call.type$ -- 10
+change.case$ -- 78
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 109
+empty$ -- 218
+format.name$ -- 102
+if$ -- 707
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 12
+newline$ -- 52
+num.names$ -- 18
+pop$ -- 85
+preamble$ -- 1
+purify$ -- 70
+quote$ -- 0
+skip$ -- 68
+stack$ -- 0
+substring$ -- 113
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 5
+while$ -- 23
+width$ -- 12
+write$ -- 102
+(There were 3 error messages)
